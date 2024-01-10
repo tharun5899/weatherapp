@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.weather-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.search {
+    margin: 20px 0;
+}
+
+.weather-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+}
